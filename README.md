@@ -14,7 +14,7 @@ This version is optimized for:
 
 ## 🚀 Live Demo
 
-(Deploy link will be added here after GitHub Pages deployment)
+https://soroush-saki.github.io/NevAI-PWA/
 
 ---
 
